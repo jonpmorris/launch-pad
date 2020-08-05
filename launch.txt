@@ -1,10 +1,6 @@
 LAUNCH PREPARATION STEPS
 
-1) Final systems and safety checks
-2) Suit up
-3) Boarding
+1) Suit up
+2) Board rocket
+3) Final systems and safety checks
 4) Buckle up
-5) Start engines
-6) Full throttle
-7) Countdown
-8) Lift-off!
