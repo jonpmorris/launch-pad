@@ -6,7 +6,7 @@ LAUNCH PREPARATION STEPS
 3) Final systems and safety checks
 4) Buckle up
 
-SAFETY CHECK LIST
+SAFETY CHECKLIST
 1) Control systems
 2) Engines
 3) Temperature
