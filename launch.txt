@@ -1,11 +1,15 @@
 LAUNCH MANUAL
 
 LAUNCH PREPARATION STEPS
-1) Systems and safety checks
-2) Final health check
-3) Suit up
-4) Board rocket
+1) Final health check
+2) Suit up
+3) Board rocket
+4) Final systems and safety checks
 5) Buckle up
+6) Start engines
+7) Full throttle
+8) Countdown
+9) Lift-off!
 
 SAFETY CHECKLIST
 1) Control systems
